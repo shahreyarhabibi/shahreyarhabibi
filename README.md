@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://ahabibi.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-00ADD8?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ramimalek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shahreyarhabibi@gmail.com.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="mailto:shahreyarhabibi@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=shahreyarhabibi&color=00ADD8&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
@@ -58,31 +58,6 @@ My expertise spans the **JavaScript ecosystem** (Next.js, React, Node.js) and th
 
 ---
 
-## 🧱 Architecture & Engineering Practices
-
-I optimize for reliability and maintainability by applying proven principles and patterns:
-- Clean Architecture: Explicit boundaries and testable business rules.
-- SOLID Principles: Creating scalable and cohesive code units.
-- System Design: Efficient database modeling and API structure.
-
-### Reference architecture
-
-```mermaid
-flowchart LR
-  U[Users] --> FE[Frontend: Next.js / React]
-  FE --> API[API Gateway / Nginx]
-  API --> S1[Service A: Laravel / PHP]
-  API --> S2[Service B: Node.js / NestJS]
-  S1 --> DB1[(MySQL)]
-  S2 --> DB2[(MongoDB)]
-  S2 --> R[(Redis Cache)]
-  CI[CI/CD] --> Docker
-  Docker --> S1
-  Docker --> S2
-```
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahreyarhabibi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahreyarhabibi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=shahreyarhabibi&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
@@ -91,7 +66,7 @@ flowchart LR
 
 ## 📫 Contact
 
-<div align="center"><a href="https://ahabibi.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/ali-reza-habibi/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shahreyarhabibi@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/> </a></div><div align="center"> <br> ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer) </div>
+<div align="center"><a href="https://ahabibi.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/ali-reza-habibi/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shahreyarhabibi@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/> </a></div>
 
 <div align="center">
 
