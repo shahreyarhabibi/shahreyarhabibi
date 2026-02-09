@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ali%20Reza%20Habibi)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ali%20Reza%20Habibi&fontSize=50&fontAlignY=40&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Next.js+%7C+React+%7C+Tailwind;PHP+%7C+Laravel+%7C+Node.js;B.Sc.+Software+Engineering)](https://git.io/typing-svg)
 
@@ -72,6 +72,6 @@ My expertise spans the **JavaScript ecosystem** (Next.js, React, Node.js) and th
 
 <b>Building scalable systems with clean interfaces, robust backends, and measurable outcomes.</b>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 </div>
