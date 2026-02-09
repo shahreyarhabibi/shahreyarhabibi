@@ -2,11 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ali%20Reza%20Habibi&fontSize=50&fontAlignY=40&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Next.js+%7C+React+%7C+Tailwind;PHP+%7C+Laravel+%7C+Node.js;B.Sc.+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Next.js+%7C+React+%7C+Tailwind;PHP+%7C+Laravel+%7C+Node.js;B.Sc.+Software+Engineering)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://ahabibi.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-00ADD8?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ramimalek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ali-reza-habibi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shahreyarhabibi@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -60,18 +60,10 @@ My expertise spans the **JavaScript ecosystem** (Next.js, React, Node.js) and th
 
 ## 📊 GitHub Statistics
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahreyarhabibi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahreyarhabibi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=shahreyarhabibi&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
-
----
-
-## 📫 Contact
-
-<div align="center"><a href="https://ahabibi.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/ali-reza-habibi/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shahreyarhabibi@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/> </a></div>
-
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahreyarhabibi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahreyarhabibi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=shahreyarhabibi&theme=dark&hide_border=true" alt="GitHub Streak" /> </div>
 <div align="center">
-
-<b>Building scalable systems with clean interfaces, robust backends, and measurable outcomes.</b>
-
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 </div>
+
