@@ -60,7 +60,7 @@ My expertise spans the **JavaScript ecosystem** (Next.js, React, Node.js) and th
 
 ## 📊 GitHub Statistics
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahreyarhabibi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahreyarhabibi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=shahreyarhabibi&theme=dark&hide_border=true" alt="GitHub Streak" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=shahreyarhabibi&theme=dark&hide_border=true" alt="GitHub Streak" /> </div>
 <div align="center">
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
